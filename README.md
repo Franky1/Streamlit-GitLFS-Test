@@ -1,2 +1,3 @@
-# Streamlit-GitLFS-Test
-Streamlit project to test GitLFS on streamlit cloud
+# Streamlit GitLFS Test
+
+Streamlit project to test Git-LFS on streamlit cloud.
